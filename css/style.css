@@ -1,0 +1,246 @@
+#abt {
+    padding-right: 10%;
+}
+
+#geburtsdatum{
+    padding-right: 11%;
+}
+
+#stelle {
+    padding-right: 11%;
+}
+
+#biss{
+
+    padding-right: 11%;
+}
+#vorn {
+    width: 24%;
+}
+#Anstellungsdat{
+    width: 23%;
+}
+
+#nach {
+    width: 24%;
+}
+#bisss{
+    width:23%;
+    padding-right: 11%;
+}
+
+#sel{
+    width: 24%;
+}
+
+
+#Ngnin {
+    color: chartreuse;
+    text-align: center;
+}
+
+#von{
+    width: 20%;
+}
+
+#bis{
+    width:23%;
+    padding-right: 11%;
+}
+
+.panel {
+    /* for text on pannel */
+    margin-top: 27px !important;
+}
+
+.panel-body {
+    padding-top: 30px !important;
+    border-style: dotted;
+    border: 70px;
+    margin-bottom: 50%;
+}
+
+.text-on-pannel {
+    background: #fff none repeat scroll 0 0;
+    height: auto;
+    margin-left: 20px;
+    padding: 3px 5px;
+    position: absolute;
+    margin-top: -47px;
+    border: 1px solid #337ab7;
+    border-radius: 8px;
+}
+
+.panel-primary {
+    border-style: dashed;
+}
+
+#audy {
+    float: right;
+}
+
+
+legend {
+
+    color: aqua;
+
+
+}
+
+#filter {
+    margin-right: 25%;
+    border: 1px solid green;
+
+}
+
+#Second {
+
+    border: 1px solid royalblue;
+    float: right;
+    width: 25%;
+    margin-top: -210px;
+   padding-bottom: 1px;
+
+
+}
+
+
+
+
+.table-container {
+    height: 400px;
+    overflow-y: scroll;
+    background: #f1f1f1;
+    padding: 10px;
+}
+
+
+table {
+    width: 90%;
+    float: right;
+
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    padding: 10px;
+
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+
+
+
+
+#order {
+    width: 30%;
+}
+
+.rot {
+    background-color: red;
+    color: white;
+    padding: 15px;
+
+float:right;
+}
+.gr {
+    background-color: green;
+    color: black;
+    padding: 15px;
+    float:right;
+}
+
+
+#Anzeigefenster {
+
+    border: 1px solid blueviolet;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.neuLad{
+    background-color: green;
+    color: black;
+
+    padding: 20px;
+
+}
+
+
+
+
+* {
+    box-sizing: border-box
+}
+
+body {
+    font-family: "Lato", sans-serif;
+}
+
+/* Style the tab */
+#tab {
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+    width: 10%;
+    height: 200px;
+
+    margin-top: 70px;
+}
+
+/* Style the buttons inside the tab */
+#tab button {
+    display: block;
+    background-color: inherit;
+    color: black;
+    padding: 22px 16px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+/* Change background color of buttons on hover
+.tab button:hover {
+    background-color: white;
+}
+
+ */
+
+
+
+#order {
+    width: 40%;
+    margin: 10%;
+}
+
+#name {
+    width: 40%;
+
+}
+
+td {border: 1px #DDD solid; padding: 5px; cursor: pointer;}
+
+
+
